@@ -1,0 +1,18 @@
+README.md
+  h_41fef0a8d84935 159-177
+Sources/TerminalMac/CLI.swift
+  h_41fef0a8d84935 61,79-81,95,99-100,275-276
+Sources/TerminalMac/VirtualMachine.swift
+  h_41fef0a8d84935 145-148,154,156,169-177,210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9e778aa80c01795fd96526a5d65728e01af79f80",
+  "prompts": {},
+  "humans": {
+    "h_41fef0a8d84935": {
+      "author": "star <starjun007@gmail.com>"
+    }
+  }
+}
