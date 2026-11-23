@@ -1,0 +1,16 @@
+Sources/TerminalMac/GuestBootstrap.swift
+  h_41fef0a8d84935 2,8-47
+Sources/TerminalMac/CLI.swift
+  h_41fef0a8d84935 172-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "14c290b3443609e5610398933d9ff1b4bafb6be2",
+  "prompts": {},
+  "humans": {
+    "h_41fef0a8d84935": {
+      "author": "star <starjun007@gmail.com>"
+    }
+  }
+}
